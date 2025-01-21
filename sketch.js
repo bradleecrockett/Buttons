@@ -16,7 +16,7 @@ function draw() {
   background(235);
   noStroke();
 
-  rect(300, 200, 100, 50);
+  
 
   // text (mouseX + ", " + mouseY, 20,20);
 }
