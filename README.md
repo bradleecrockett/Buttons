@@ -1,10 +1,25 @@
 # Buttons
 
+The purpose of this assignment is to demonstrate your understanding of condtional statements.
+You may not use any builtin button functions. You must use *if statements*.
+
+## Boolean Operators
+There are some *boolean* logic operators that will be helpful.
+
+1) The AND operator `&&` only executes when both operands (sides of the `&&` sign) evlauate to `true`.
+1) The OR operator `||` executes when either operand (sides of the `||` sign) evlauate to `true`. It also executes when both operands are `true`.
+1) The NOT operator `!` evaluates the alernative. 
+    * Example: `! 5<8` evaluates to `false`.  
+    * Example 2: `! 5>8` evaluates to `false`.
+
+
+
 ## Requirements
 * Create a rectangle in the center of the canvas.
-* The rectangle should be no larger than width 100 and height 50.
-* Write the a conditional statement so that the color of the rectangle changes only when the mouse is hovering on the rectangle. 
-* The color of the rectangle should change back when the mouse is not hovering over the rectangle.
+* The rectangle should be have a width of 100 and height 50.
+* Write the a conditional statement so that 
+    * The color of the rectangle changes only when the mouse is hovering on the rectangle. 
+    * The color of the rectangle should change back when the mouse is not hovering over the rectangle.
 * The color of the rectangle should not flicker or rapidly change, it should be a solid color.
 * For help with this assignment watch this video: [https://youtu.be/r2S7j54I68c?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA](https://youtu.be/r2S7j54I68c?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
@@ -23,7 +38,7 @@ For help with the challenges watch this video: [https://youtu.be/r2S7j54I68c?lis
 ## Grading
 |Requirement | pts possible| pts earned|
 |--- |:-:| :-:|
-|Rectangle button in the center of the screen that is no larger than width 100 and height 50 |1|
+|Rectangle button in the center of the screen and has width 100 and height 50 |1|
 |Rectangle button is colored and does not flicker|1|
 |When the mouse hovers over the button, it changes color|3|
 |When the mouse is not hovering over the button, it changes back to the original color|3|
