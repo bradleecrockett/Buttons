@@ -40,9 +40,10 @@ For help with the challenges watch this video: [https://youtu.be/r2S7j54I68c?lis
 |--- |:-:| :-:|
 |Rectangle button in the center of the screen and has width 100 and height 50 |1|
 |Rectangle button is colored and does not flicker|1|
-|When the mouse hovers over the button, it changes color|3|
-|When the mouse is not hovering over the button, it changes back to the original color|3|
-|Create 2nd rectangle that only changes color when it is clicked|2|
-|Create a circle or ellipse shaped button. It can work like either of the rectangle buttons.|2|
-|Create an unclickable button that as soon as the mouse hovers over it, the button teleports somewhere else.|1|
+|When the mouse hovers over the button, it changes color|2|
+|When the mouse is not hovering over the button, it changes back to the original color|2|
+|Create a 2nd rectangle (different location and size) that changes color when the mouse is hovering over it. | 4 |
+|Extra Credit: Create a rectangle that only changes color when it is clicked|2|
+|Extra Credit: Create a circle or ellipse shaped button. It can work like either of the rectangle buttons.|2|
+|Extra Credit: Create an unclickable button that as soon as the mouse hovers over it, the button teleports somewhere else.|1|
 |Total Possible:|10||
